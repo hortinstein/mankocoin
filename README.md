@@ -2,7 +2,7 @@
 
 # mankocoin
 ![](/assets/logo.JPG)
-# the superior wet market coin
+# the superior wet market coin, you will never be second choice
 
 To view samples (and try to steal my coinz): 
 - [BlochainExplorer](http://159.223.96.145:8080/#/)
