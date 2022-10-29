@@ -13,10 +13,8 @@ cd ../../mankocoin-ui/mankocoin-wallet
 npm install
 pm2 --name wallet start npm -- start
 
-cd ../../#mankocoin
+cd ../../mankocoin
 
 #start the node
-#npm install
-#pm2 --name node start npm -- start
-
-curl -H "Content-type:application/json" --data '{"peer" : "ws://159.223.96.145:6001"}' http://localhost:3001/addPeer
+npm install
+pm2 --name node start npm -- start
