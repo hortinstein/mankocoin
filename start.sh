@@ -4,6 +4,12 @@
 #nvm use 16
 npm install pm2 -g
 
+
+#start the node
+npm install
+pm2 --name node start npm -- start
+
+
 cd mankocoin-ui/mankocoin-explorer
 npm install
 pm2 --name explorer start npm -- start
@@ -13,7 +19,3 @@ npm install
 pm2 --name wallet start npm -- start
 
 cd ../../mankocoin
-
-#start the node
-npm install
-pm2 --name node start npm -- start
