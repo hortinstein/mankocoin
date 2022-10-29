@@ -8,5 +8,5 @@
 
 [Development](https://lhartikk.github.io/) of manko coin was primarily done via: 
 
-```grep -rli 'naivecoin' * | xargs -i@ sed -i 's/naivecoin/mankocoin/g' @```
+```grep -rli 'mankocoin' * | xargs -i@ sed -i 's/mankocoin/mankocoin/g' @```
 

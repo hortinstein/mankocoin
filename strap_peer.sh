@@ -1,0 +1,1 @@
+curl -H "Content-type:application/json" --data '{"peer" : "ws://159.223.96.145:6001"}' http://localhost:3001/addPeer

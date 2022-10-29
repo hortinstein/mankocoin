@@ -5,15 +5,15 @@ nvm use 16
 source ~/.bashrc
 npm install pm2 -g
 
-cd naivecoin-ui/naivecoin-explorer
+cd mankocoin-ui/mankocoin-explorer
 npm install
 pm2 --name explorer start npm -- start
 
-cd ../../naivecoin-ui/naivecoin-wallet
+cd ../../mankocoin-ui/mankocoin-wallet
 npm install
 pm2 --name wallet start npm -- start
 
-cd ../../#naivecoin
+cd ../../#mankocoin
 
 #start the node
 #npm install
