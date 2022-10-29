@@ -53,6 +53,6 @@ and if you want to preserve your private key
 
 [Development](https://lhartikk.github.io/) of manko coin was primarily done via: 
 
-```grep -rli 'mankocoin' * | xargs -i@ sed -i 's/mankocoin/mankocoin/g' @```
+```grep -rli 'naivecoin' * | xargs -i@ sed -i 's/naivecoin/mankocoin/g' @```
 
 ![](/assets/7stars.jpg)
