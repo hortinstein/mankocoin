@@ -4,6 +4,8 @@
 ![](/assets/logo.JPG)
 # the superior wet market coin, you will never be second choice
 
+####warning, reccomend running this in a VM or on cloud hardware you dont care about...![NO VULNERABILTIY](/assets/vulnerable.JPEG)
+
 To view samples (and try to steal my coinz): 
 - [BlochainExplorer](http://159.223.96.145:8080/#/)
 - [wallet](http://159.223.96.145:8081/#/)
