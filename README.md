@@ -38,6 +38,17 @@ now you can go to:
 - [My wallet: localhost:8081](http://localhost:8080)
 - [Block Explorerlocalhost:8081](http://localhost:8081)
 
+if you need to stop the program: 
+```
+./stop.sh
+```
+
+and if you want to preserve your private key
+```
+./show_wallet_priv_key.sh
+```
+
+
 [Development](https://lhartikk.github.io/) of manko coin was primarily done via: 
 
 ```grep -rli 'mankocoin' * | xargs -i@ sed -i 's/mankocoin/mankocoin/g' @```
