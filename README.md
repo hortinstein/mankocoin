@@ -24,3 +24,4 @@ git clone https://github.com/hortinstein/mankocoin.git
 
 ```grep -rli 'mankocoin' * | xargs -i@ sed -i 's/mankocoin/mankocoin/g' @```
 
+![](/assets/7stars.jpg)
