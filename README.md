@@ -35,8 +35,8 @@ then run the following to join the block chain
 ```
 
 now you can go to:
-- [My wallet: localhost:8081](localhost:8080)
-- [Block Explorerlocalhost:8081](localhost:8081)
+- [My wallet: localhost:8081](http://localhost:8080)
+- [Block Explorerlocalhost:8081](http://localhost:8081)
 
 [Development](https://lhartikk.github.io/) of manko coin was primarily done via: 
 
