@@ -1,8 +1,7 @@
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
-
-nvm use 16
-source ~/.bashrc
+#curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+#source ~/.bashrc
+#nvm use 16
 npm install pm2 -g
 
 cd mankocoin-ui/mankocoin-explorer
