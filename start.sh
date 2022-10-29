@@ -5,17 +5,18 @@
 npm install pm2 -g
 
 
+cd naivecoin
+
 #start the node
 npm install
 pm2 --name node start npm -- start
 
 
-cd mankocoin-ui/mankocoin-explorer
+cd ../naivecoin-ui/naivecoin-explorer
 npm install
 pm2 --name explorer start npm -- start
 
-cd ../../mankocoin-ui/mankocoin-wallet
+cd ../../naivecoin-ui/naivecoin-wallet
 npm install
 pm2 --name wallet start npm -- start
 
-cd ../../mankocoin
