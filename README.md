@@ -19,6 +19,24 @@ to start a node you must have git installed as well as node (v16 works best)
 git clone https://github.com/hortinstein/mankocoin.git
 ```
 
+run the following to:
+- on first run will create your private wallet key
+- start the node which will eventually join the other mining peers
+- start the wallet ui (shows your public address 
+- starts the block explorer ui, so you can view transactios 
+```
+cd mankocoin
+./start.sh
+```
+
+then run the following to join the block chain 
+```
+./strap_peers.sh
+```
+
+now you can go to:
+- [My wallet: localhost:8081](localhost:8080)
+- [Block Explorerlocalhost:8081](localhost:8081)
 
 [Development](https://lhartikk.github.io/) of manko coin was primarily done via: 
 
